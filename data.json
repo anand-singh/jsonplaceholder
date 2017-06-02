@@ -1,6 +1,7 @@
 {    
   "lookups": [
 	{
+		"id": "property-tax-types",
 		"property-tax-types": {
 			"label": "Property Tax Types",
 			"data": [
