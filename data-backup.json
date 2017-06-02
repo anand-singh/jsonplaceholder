@@ -39839,48 +39839,7 @@
       }
     }
   ],
-  "lookups": {
-	"property-tax-types": {
-		"label": "Property Tax Types",
-		"data": [
-			{
-				"code": "cityTax",
-				"label": "City Tax",
-				"description": "City Tax"
-			},
-			{
-				"code": "goodsAndServicesTax",
-				"label": "Goods & Services Tax",
-				"description": "Goods & Services Tax"
-			},
-			{
-				"code": "conventionAndTourismTax",
-				"label": "Convention & Tourism Tax",
-				"description": "Convention & Tourism Tax"
-			},
-			{
-				"code": "occupancyTax",
-				"label": "Occupancy Tax",
-				"description": "Occupancy Tax"
-			},
-			{
-				"code": "stateTax",
-				"label": "State Tax",
-				"description": "State Tax"
-			},
-			{
-				"code": "VATTax",
-				"label": "VAT Tax",
-				"description": "VAT Tax"
-			},
-			{
-				"code": "CountyTax",
-				"label": "County Tax",
-				"description": "County Tax"
-			}
-		]
-	}
-  }
+  "todos": [
     {
       "userId": 1,
       "id": 1,
